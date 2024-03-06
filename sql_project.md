@@ -1,4 +1,4 @@
-Strategic Analytics System: Optimizing Insights for Atliq's Growth
+##Strategic Analytics System: Optimizing Insights for Atliq's Growth
 Embark on an innovative project catering to Atliq's diverse needs. 
 Develop an integrated system offering a precise monthly gross sales report for Croma India, empowering the product owner to manage relationships effectively.
 The system extends its capabilities to provide strategic insights, including:
